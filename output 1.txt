@@ -1,0 +1,19 @@
+Discovered target device: UP MOVE (CD:6D:1C:A7:43:9D)
+Connecting using MAC address CD:6D:1C:A7:43:9D...
+Connected: True
+Reading GATT services...
+00001800-0000-1000-8000-00805f9b34fb
+  00002a00-0000-1000-8000-00805f9b34fb ['write', 'read', 'write-without-response']
+  00002a01-0000-1000-8000-00805f9b34fb ['read']
+  00002a04-0000-1000-8000-00805f9b34fb ['read']
+00001801-0000-1000-8000-00805f9b34fb
+f7c9ba7e-6658-4390-b53c-1de5e1453654
+  f7c9b162-6658-4390-b53c-1de5e1453654 ['notify', 'write']
+  f7c9ba82-6658-4390-b53c-1de5e1453654 ['notify']
+  f7c9ba91-6658-4390-b53c-1de5e1453654 ['notify']
+0000180a-0000-1000-8000-00805f9b34fb
+  00002a29-0000-1000-8000-00805f9b34fb ['read']
+  00002a26-0000-1000-8000-00805f9b34fb ['read']
+  00002a24-0000-1000-8000-00805f9b34fb ['read']
+  00002a28-0000-1000-8000-00805f9b34fb ['read']
+  00002a27-0000-1000-8000-00805f9b34fb ['read']
